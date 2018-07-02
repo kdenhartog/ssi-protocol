@@ -19,3 +19,7 @@ It is the goal of this protocol to be technically extensible in order to continu
 ## User-Centric
 
 This principle is essential to developing any piece of software for a large user base. It is important that we don't enforce our world view on the users, rather we extend the capabilities of this protocol such that the user has the option to select in which ever way they choose. This also means that we must default to the most safe, and risk adverse settings, but make it easy for the user to change and adapt their usage of this protocol to their desires. In order for this protocol to be adapted to many cultures and subsections of the human population, we must consider other world views that may be in direct contention of our own beliefs. If it does, we shall refer back to this principle to guide our decision-making.
+
+## Respectful
+
+When build technologies it's important that we recognize that not everyone will hold the same beliefs, ideas, and world views, but this shouldn't prevent us from being respectful as we disagree and compromise on a solution. Most often the technical issues that are encountered when building technologies are rooted in a difference in beliefs - in other words, they are a difference in people not technologies. By recognizing that our differences are rooted in a difference of beliefs, we can maintain respect for each others paths as we build these new technologies.

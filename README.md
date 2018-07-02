@@ -15,18 +15,23 @@ accepted as soon as it idles for 7 days without anyone making a substantive
 counterproposal. At that point, the ideas in the PR are considered "tenatively
 endorsed" by the contributors. New PRs can always undo something.
 
-"Substantive counterproposal" means you propose alternate content with a PR of
-your own, either against the same repo or against the original proposer's fork--
-not that you just criticize or drag your feet. If you make a
-counterproposal, then your new PR becomes the expected outcome of the contribution
-thread until 7 days have elapsed on _it_, or until a _new_ counterproposal
-materializes. Ping-pong proposals that just reassert an entrenched position
-stall a contribution thread and require a meeting to resolve. We'll handle
-that situation as it arises.
-
 Everybody plays by these rules, including maintainers. And anybody can be a
 maintainer, if you have good github kung fu and you'll enforce these rules.
 We're all peers. 
+
+For more details on contributing look [here](overview/how-to-contribute.md)
+
+### Principles
+
+As a community, we ask that everyone adheres to the 5 core principles:
+
+  * [Doacracry](overview/core-principles.md#Doacracy)
+  * [Privacy by Design](overview/core-principles.md#Privacy-by-Design)
+  * [Interoperability](overview/core-principles.md#Interoperability)
+  * [Extensible](overview/core-principles.md#Extensible)
+  * [User-Centric](overview/core-principles.md#User-centric)
+  * [Respectful]((overview/core-principles.md#Respectful)
+
 
 ### Structure
 
